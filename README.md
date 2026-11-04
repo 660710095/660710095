@@ -18,12 +18,12 @@
 
 ### 👨‍💻 About Me
 
-Passionate **AI Engineer & Computer Vision Specialist** dedicated to building end-to-end intelligent systems. Experienced in deep learning architectures, image classification, transfer learning, and real-time vision pipelines with deployment to web and edge platforms.
+Passionate **AI Engineer & Computer Vision Specialist** dedicated to building end-to-end intelligent systems. Experienced in deep learning architectures, semantic segmentation, transfer learning, and real-time vision pipelines with deployment to web and edge platforms.
 
-- 🔭 **Current Focus:** Deep Learning for Industrial Quality Inspection & Medical Imaging Diagnostics.
-- ⚙️ **Core Expertise:** PyTorch, Torchvision, OpenCV, CNNs, ResNet, Transfer Learning, Streamlit.
-- 🎯 **Goals:** Applying Computer Vision solutions to automate complex manufacturing and autonomous systems.
-- 💬 **Ask me about:** Image processing, model evaluation, class imbalance strategies, and full-stack AI deployment.
+- 🔭 **Current Focus:** Deep Learning for Autonomous Vision, Industrial Quality Inspection & Medical Diagnostics.
+- ⚙️ **Core Expertise:** PyTorch, DeepLabV3+, U-Net, ResNet, OpenCV, Transfer Learning, Streamlit.
+- 🎯 **Goals:** Developing high-precision Computer Vision solutions to automate complex manufacturing and intelligent mobility.
+- 💬 **Ask me about:** Semantic segmentation, catastrophic forgetting mitigation, data leakage prevention, and model engineering.
 
 ---
 
@@ -34,7 +34,7 @@ Passionate **AI Engineer & Computer Vision Specialist** dedicated to building en
 | Domain | Technologies & Libraries |
 |:---|:---|
 | **Programming Languages** | `Python`, `C`, `Java`, `JavaScript`, `TypeScript`, `SQL`, `Ruby` |
-| **Deep Learning & CV** | `PyTorch`, `Torchvision`, `OpenCV`, `CNN`, `ResNet50`, `Grad-CAM`, `Transfer Learning` |
+| **Deep Learning & CV** | `PyTorch`, `DeepLabV3+`, `U-Net`, `ResNet50`, `OpenCV`, `Grad-CAM`, `Transfer Learning` |
 | **Machine Learning & Data** | `Scikit-Learn`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `XGBoost` |
 | **Deployment & Web** | `Streamlit`, `REST APIs`, `Git`, `GitHub`, `GitHub CLI` |
 | **Development Environments** | `VS Code`, `Jupyter Notebook`, `Linux`, `Windows PowerShell` |
@@ -54,6 +54,15 @@ Passionate **AI Engineer & Computer Vision Specialist** dedicated to building en
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h4>🚗 <a href="https://github.com/660710095/Project-lane-detection-and-Tracking-">Thai Road Lane Detection (Deep Learning Lead)</a></h4>
+      <p>Spearheaded the <b>Deep Learning core</b> for Thai road lane segmentation. Trained & benchmarked <b>DeepLabV3+</b> and <b>U-Net</b> on CULane (61k+ images), formulated Group Stratified Splitting to eliminate data leakage across video clips, and solved <b>catastrophic forgetting</b> on night scenes via Rehearsal memory replay (50%) during Thai road fine-tuning.</p>
+      <p>
+        <img src="https://img.shields.io/badge/DeepLabV3%2B-U--Net-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/CULane-61k%20Images-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Rehearsal-Anti--Forgetting-orange?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h4>🔍 <a href="https://github.com/660710095/industrial-defect-detection">Industrial Surface Defect Detection</a></h4>
       <p>Automated steel surface inspection system built with PyTorch. Benchmarks a Custom CNN (94.07% Acc) against a two-stage fine-tuned ResNet50 Transfer Learning model achieving <b>100.00% test accuracy</b> across 6 defect types. Deployed with an interactive Streamlit dashboard.</p>
       <p>
@@ -62,6 +71,8 @@ Passionate **AI Engineer & Computer Vision Specialist** dedicated to building en
         <img src="https://img.shields.io/badge/Streamlit-Deployment-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🧬 <a href="https://github.com/660710095/Classification-of-Pigmented-Skin-Lesions-Using-the-HAM10000-Dataset">Skin Lesion Classification (HAM10000)</a></h4>
       <p>Deep Learning pipeline classifying 7 pigmented skin lesions from 10,015 dermoscopic images. Compares Custom CNN with ResNet50, DenseNet121, and EfficientNet-B0 while solving severe class imbalance and interpreting predictions via <b>Grad-CAM</b>.</p>
@@ -71,22 +82,12 @@ Passionate **AI Engineer & Computer Vision Specialist** dedicated to building en
         <img src="https://img.shields.io/badge/Deep%20Learning-Classification-brightgreen?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h4>🚗 <a href="https://github.com/660710095/Project-lane-detection-and-Tracking-">Lane Detection & Tracking</a></h4>
-      <p>Real-time road lane boundary detection and vehicle tracking from car dashcam video footage. Implements Canny edge detection, dynamic ROI masking, Hough Line Transform, and perspective curve fitting in OpenCV.</p>
+      <h4>🏠 <a href="https://github.com/660710095/House-Price-Prediction-ML">Real Estate Valuation IDSS (Model Lead)</a></h4>
+      <p>Spearheaded the <b>Predictive Modeling core</b> in a collaborative team project for residential property investment valuation. Benchmarked gradient boosting & regression models (XGBoost, Random Forest, Ridge), conducted feature engineering, and tuned hyperparameters for high R² valuation accuracy.</p>
       <p>
-        <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/Real--Time-Video%20Stream-red?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏠 <a href="https://github.com/660710095/House-Price-Prediction-ML">Real Estate Valuation IDSS</a></h4>
-      <p>Intelligent Decision Support System for residential property investment valuation using machine learning (XGBoost, Random Forest), comprehensive feature engineering, and predictive price modeling.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Machine%20Learning-Regression-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Feature%20Engineering-XGBoost-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Model%20Lead-Collaborative-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/XGBoost-Random%20Forest-blue?style=flat-square" />
       </p>
     </td>
   </tr>
