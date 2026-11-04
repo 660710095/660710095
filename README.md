@@ -23,7 +23,7 @@ Passionate **AI Engineer & Computer Vision Specialist** dedicated to building en
 - 🔭 **Current Focus:** Deep Learning for Autonomous Vision, Industrial Quality Inspection & Medical Diagnostics.
 - ⚙️ **Core Expertise:** PyTorch, DeepLabV3+, U-Net, ResNet, OpenCV, Transfer Learning, Streamlit.
 - 🎯 **Goals:** Developing high-precision Computer Vision solutions to automate complex manufacturing and intelligent mobility.
-- 💬 **Ask me about:** Semantic segmentation, catastrophic forgetting mitigation, data leakage prevention, and model engineering.
+- 💬 **Ask me about:** Semantic segmentation, custom dataset curation, data leakage prevention, and model engineering.
 
 ---
 
@@ -54,12 +54,12 @@ Passionate **AI Engineer & Computer Vision Specialist** dedicated to building en
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚗 <a href="https://github.com/660710095/Project-lane-detection-and-Tracking-">Thai Road Lane Detection (Deep Learning Lead)</a></h4>
-      <p>Spearheaded the <b>Deep Learning core</b> for Thai road lane segmentation. Trained & benchmarked <b>DeepLabV3+</b> and <b>U-Net</b> on CULane (61k+ images), formulated Group Stratified Splitting to eliminate data leakage across video clips, and solved <b>catastrophic forgetting</b> on night scenes via Rehearsal memory replay (50%) during Thai road fine-tuning.</p>
+      <h4>🚗 <a href="https://github.com/660710095/Project-lane-detection-and-Tracking-">Thai Road Lane Detection & Tracking (Senior Thesis)</a></h4>
+      <p>Architected the <b>System Pipeline & Deep Learning core</b>. Created a custom Thai Road dataset (dashcam RHD/drive-on-left) with verified <b>Inter-Annotator Agreement (90.65%)</b> and Group Stratified Splitting to eliminate data leakage. Benchmarked <b>DeepLabV3+</b> vs <b>U-Net</b> across 4 paradigms, achieving champion <b>Joint Multi-Domain Training (IoU 55.12%, Precision 71.04%)</b> matching human annotator agreement (55.16%), providing binary masks for downstream polynomial curve fitting.</p>
       <p>
-        <img src="https://img.shields.io/badge/DeepLabV3%2B-U--Net-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/CULane-61k%20Images-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Rehearsal-Anti--Forgetting-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Role-Pipeline%20%26%20DL%20Lead-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/DeepLabV3%2B-IoU%2055.12%25-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Dataset-Custom%20Thai%20Roads-blue?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
