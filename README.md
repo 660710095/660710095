@@ -75,7 +75,7 @@ Passionate **AI Engineer & Computer Vision Specialist** dedicated to building en
   <tr>
     <td width="50%" valign="top">
       <h4>🧬 <a href="https://github.com/660710095/Classification-of-Pigmented-Skin-Lesions-Using-the-HAM10000-Dataset">Skin Lesion Classification (HAM10000)</a></h4>
-      <p>Collaborative 4-person team project on HAM10000 (10,015 dermoscopic images). Led <b>EDA & Data Augmentation strategy</b> to overcome severe class imbalance without data leakage, structured candidate model roadmap, and personally owned <b>ResNet50 transfer learning & fine-tuning</b> with <b>Grad-CAM</b> visual explainability.</p>
+      <p>Collaborative 3-person team project on HAM10000 (10,015 dermoscopic images). Led <b>EDA & Data Augmentation strategy</b> to overcome severe class imbalance without data leakage, structured candidate model roadmap, and personally owned <b>ResNet50 transfer learning & fine-tuning</b> with <b>Grad-CAM</b> visual explainability.</p>
       <p>
         <img src="https://img.shields.io/badge/Role-EDA%20%26%20ResNet50%20Lead-blueviolet?style=flat-square" />
         <img src="https://img.shields.io/badge/Model-ResNet50%20Transfer%20Learning-blue?style=flat-square" />
