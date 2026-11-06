@@ -83,11 +83,12 @@ Passionate **AI Engineer & Computer Vision Specialist** dedicated to building en
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏠 <a href="https://github.com/660710095/House-Price-Prediction-ML">Real Estate Valuation IDSS (Model Lead)</a></h4>
-      <p>Spearheaded the <b>Predictive Modeling core</b> in a collaborative team project for residential property investment valuation. Benchmarked gradient boosting & regression models (XGBoost, Random Forest, Ridge), conducted feature engineering, and tuned hyperparameters for high R² valuation accuracy.</p>
+      <h4>🏠 <a href="https://github.com/660710095/idss_estate_Investment_project">Real Estate Investment IDSS (Team of 3)</a></h4>
+      <p>Collaborative 3-person project building an <b>Intelligent Decision Support System</b> for property investment in Nakhon Pathom. Engineered automated web scraping via <b>Selenium</b>, data cleaning pipelines, and multi-criteria decision logic integrating city zoning regulations with financial analytics (ROI, Cap Rate). Deployed via an interactive <b>Streamlit</b> web dashboard.</p>
       <p>
-        <img src="https://img.shields.io/badge/Model%20Lead-Collaborative-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/XGBoost-Random%20Forest-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Role-Data%20Pipeline%20%26%20Logic-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Streamlit-Interactive%20UI-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Selenium-Web%20Scraping-43B02A?style=flat-square&logo=selenium&logoColor=white" />
       </p>
     </td>
   </tr>
